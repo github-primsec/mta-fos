@@ -2,4 +2,4 @@ version: STSv1
 mode: enforce
 max_age: 2419200
 mx: mx1.simplelogin.co
-mx: mx2.simplelogin.co.
+mx: mx2.simplelogin.co
